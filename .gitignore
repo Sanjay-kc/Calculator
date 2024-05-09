@@ -8,4 +8,7 @@
 *.env
 
 #ignore test files
-*/test.*
+Calculator-server/test.py
+
+#ignore  __pycache__ folder
+*/__pycache__/
