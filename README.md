@@ -12,6 +12,6 @@ npm start
 Start the server:
 ```
 cd Calculator-server
-
+pip install requirement.txt
 flask --app srv.py run
 ```
