@@ -38,8 +38,8 @@ function App() {
   }
   return (
     <Wrapper>
-      <div className='tagline' style={{fontFamily:'Papyurs'}}>
-        <h1>Math your way to future!!</h1></div>
+      {/* <div className='tagline' style={{fontFamily:'Papyurs'}}> */}
+      {/* <h1>Math your way to future!!</h1></div> */}
       <Screen value={inputValue||0} />
       <ButtonBox>
         {
